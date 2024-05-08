@@ -2,30 +2,31 @@
 
 ---
 
-### Category Name 1 
+### Practical projects 
 
-[Project 1 Title](/sample_page)
+[NLP for stock market predictions](https://github.com/asaad-98/nlp-stock-market)
+
+---
+[Hierarchical Clustering with Risk Parity Portfolio Optimization](https://github.com/asaad-98/hierarchical-risk-parity)
+
+---
+[Big Data for Cross-selling in Insurance](https://github.com/omarja12/BigData4Finance/blob/main/Big_data_for_finance_Project.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bankcruptcy Prediction](https://github.com/omarja12/BigData4Finance/blob/main/Big_data_for_finance_Project.ipynb)
+    - [PDF summary document](https://github.com/omarja12/DeepLearning/blob/main/DL_report.pdf) 
+    - Summary results:
+      - <img src="images/deeplearningproject_metrics.png?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### Other projects
 
----
+- [Co-founder](https://www.peaktokens.com/)
+  - Responsible for API integrations, data engineering and metrics computation as well as the deployment of any related microservices
+
 
 
 
